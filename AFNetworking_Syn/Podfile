@@ -1,0 +1,5 @@
+use_frameworks!
+target 'AFNetworking_Syn' do
+  pod 'AFNetworking', '3.1.0'
+  pod 'AFNetworking-Synchronous/3.x'
+end
